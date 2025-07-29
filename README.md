@@ -1,4 +1,4 @@
-# 🚀 Anomaly description from a rover using VLM
+# 🚀 Anomaly description from a rover images using VLM
 
 This project automates the process of identifying visual anomalies from Mars-like terrain images using a Vision-Language Model (VLM) and generates a clean PDF report using FPDF.
 
